@@ -1,11 +1,3 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js"
-// If you enabled Analytics in your project, add the Firebase SDK for Google Analytics
-import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-analytics.js"
-// Add Firebase products that you want to use
-import { getAuth } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-auth.js"
-import { getFirestore } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-firestore.js"
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-
 const firebaseConfig = {
   apiKey: "AIzaSyBdjLVH41Lo86OINMZD2U_m9XQVUtob9jM",
   authDomain: "tarumt-focs-evolution.firebaseapp.com",
