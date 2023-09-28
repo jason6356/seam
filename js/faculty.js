@@ -57,7 +57,7 @@ function renderCards(facultyMembers, department, searchQuery) {
 
     // Create a new card element and append it to the current row.
     const cardElement = document.createElement("div")
-    cardElement.classList.add("col-md-6")
+    cardElement.classList.add("col-md-4")
     cardElement.innerHTML = `
         <div class="card">
           <img class="card-img-top" src="${data["Img"]}" alt="Card image cap">

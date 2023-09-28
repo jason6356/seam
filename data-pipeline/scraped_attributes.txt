@@ -1,0 +1,662 @@
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-science-honours-in-management-mathematics-with-computing/
+Program Name: Bachelor of Science (Honours) in Management Mathematics with Computing
+Programme Overview: This programme is a multi-disciplinary blend with Management Mathematics as the major, Computing as the minor and Economics or Accounting Methods as the associate study. Management Mathematics covers mathematical techniques, including resource allocation and planning, optimisation, project management, quantitative decision, applied statistics, quality control and financial mathematics. Computing courses prepare students for software design and development including skills on programming and information management.
+Duration: 3 years
+Intake: Year 1 Intake: June, Year 2 Intake: June
+Campuses: KL - Kuala Lumpur Main Campus   (R2/0540/6/0004A)(09/28)(MQA/FA3925)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202303/F2E4563F-7EF2-406D-82AB-FCA614D56772.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Discrete Mathematics</li>
+<li>Calculus I</li>
+<li>Calculus II</li>
+<li>Algebra</li>
+<li>Probability and Statistics</li>
+<li>Linear Algebra</li>
+<li>Advanced Calculus</li>
+<li>Numerical Methods</li>
+<li>Mathematical and Statistical Software</li>
+<li>Problem Solving and Programming</li>
+<li>Database Management</li>
+<li>Computer Organisation and Architecture</li>
+<li>Object-Oriented Programming</li>
+<li>Operating Systems</li>
+<li>IT Fundamentals</li>
+<li>Visual Programming</li>
+<li>Industrial Training</li>
+<li>Project</li>
+<li>Mathematical Statistics</li>
+<li>Applied Statistics</li>
+<li>Operations Research I</li>
+<li>Operations Research II</li>
+<li>Financial Mathematics</li>
+<li>Quality Control</li>
+<li>Contemporary Malaysian Issues</li>
+</ul>
+<h6>Elective 1A and 1B (Choose 2):</h6>
+<ul style="margin: 10px;">
+<li>Microeconomics</li>
+<li>Macroeconomics</li>
+<li>Accounting Methods I</li>
+<li>Accounting Methods II</li>
+</ul>
+<h6>Elective (Mathematics)(Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Further Applied Statistics</li>
+<li>Cryptography</li>
+<li>Advanced Financial Mathematics</li>
+</ul>
+<h6>Elective (ICT)(Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Machine Learning</li>
+<li>Cloud Computing</li>
+<li>Business Intelligence</li>
+<li>Data Science</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship or Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+<p></p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-computer-science-honours-in-interactive-software-technology/
+Program Name: Bachelor of Computer Science (Honours) in Interactive Software Technology
+Programme Overview: This programme aims to teach students the technical knowledge and skills in computer science with a further focus on the design and development of interactive software such as mobile applications, video games, simulations, virtual reality, electronic magazines, educational and training materials. These interactive applications can then be utilized by the entertainment industry, businesses as well as in education.
+Duration: 3 years
+Intake: Year 1 Intake: June, Year 2 Intake: June
+Campuses: KL - Kuala Lumpur Main Campus   (R2/0613/6/0374A)(09/28)(MQA/FA3929)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202303/986FE568-6D75-4E3A-A661-B07D22B05423.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Problem Solving and Programming</li>
+<li>Computer Game Studies</li>
+<li>Database Management</li>
+<li>Computer Organisation and Architecture</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Object-Oriented Analysis and Design</li>
+<li>Data Structures and Algorithms</li>
+<li>Operating Systems</li>
+<li>Software Engineering</li>
+<li>Graphics Programming</li>
+<li>Computer Game Programming</li>
+<li>Social and Professional Issues</li>
+<li>Contemporary Malaysian Issues</li>
+<li>Artificial Intelligence</li>
+<li>IT Fundamentals</li>
+<li>Web Design and Development</li>
+<li>Distributed Systems and Parallel Computing</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Mobile Application Development</li>
+<li>Human Computer Interaction</li>
+<li>Discrete Mathematics</li>
+<li>Probability and Statistics</li>
+<li>Mathematics for Games Technology</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Elective 1 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>3D Game Development</li>
+<li>3D Animation</li>
+</ul>
+<h6>Elective 2, Elective 3 (Choose any 2):</h6>
+<ul style="margin: 10px;">
+<li>Virtual Reality</li>
+<li>Computer Game Design</li>
+<li>Advanced Computer Game Programming</li>
+<li>Computer Games Technology</li>
+<li>Blockchain Application Development</li>
+<li>Digital Illustration</li>
+</ul>
+<h6>Elective 4 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Introduction to Short Story</li>
+<li>Music Appreciation</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-computer-science-honours-in-data-science/
+Program Name: Bachelor of Computer Science (Honours) in Data Science
+Programme Overview: This programme is designed to train students in both computer science and data science, which prepares them well for data professionals or data scientist career pathway. Graduates of this programme are highly demanded in the increasingly data-driven world where their main role is to make sense of big data to improve business processes, optimize resources, increase profits, increase customer satisfaction, personalized experience, automation, and so on.
+Duration: 3 years
+Intake: Year 1 Intake: January (KL); June (KL, PG); November (KL), Year 2 Intake: June (KL, PG)
+Campuses: 
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202303/986FE568-6D75-4E3A-A661-B07D22B05423.png
+outline: 
+<h6></h6>
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Introduction to Computer Systems</li>
+<li>Web Design and Development</li>
+<li>Software Engineering</li>
+<li>Natural Language Processing</li>
+<li>Introduction to Computer Networks</li>
+<li>Data Science</li>
+<li>Statistics for Data Science</li>
+<li>Artificial Intelligence</li>
+<li>Machine Learning</li>
+<li>Data Engineering</li>
+<li>Data Visualisation</li>
+<li>Data Warehouse Technology</li>
+<li>Cloud Computing</li>
+<li>Problem Solving and Programming</li>
+<li>Database Management</li>
+<li>Advanced Database Management</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Data Structures and Algorithms</li>
+<li>Social and Professional Issues</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Elective 1 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Introduction to Computer Security</li>
+<li>Mobile Application Development</li>
+</ul>
+<h6>Elective 2 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Principle of Marketing</li>
+<li>Business Organisation and Management</li>
+</ul>
+<h6>Elective 3 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Internet of Things</li>
+<li>Graphics Programming</li>
+<li>Distributed Systems and Parallel Computing</li>
+</ul>
+<h6>Elective 4 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Image Processing</li>
+<li>Algebra and Calculus</li>
+<li>Blockchain Application Development<br/><br/></li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-information-systems-honours-in-enterprise-information-systems/
+Program Name: Bachelor of Information Systems (Honours) in Enterprise Information Systems
+Programme Overview: Information systems are the heart of many organisations that support their daily business processes and in turn promote business growth. As the size and demand of information systems has grown tremendously, many of the business functions like sales & marketing, finance & accounting, manufacturing & processes, human resources, supply chain management, customer relationship management, knowledge management and many other business functions are integrated into enterprise information systems to further improve organisational performance.
+Duration: 3 years
+Intake: Year 1 Intake: June, Year 2 Intake: June
+Campuses: KL - Kuala Lumpur Main Campus   (R2/0611/6/0376A)(09/28)(MQA/FA3931)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202305/8B7CEFC7-9F45-459A-B6D5-301BF0E2E806.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Business and Information Systems</li>
+<li>Problem Solving and Programming</li>
+<li>Database Management</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Object-Oriented Analysis and Design</li>
+<li>Data Structures and Algorithms</li>
+<li>Enterprise Resource Planning</li>
+<li>Information Systems Implementation</li>
+<li>Social and Professional Issues</li>
+<li>IT Fundamentals</li>
+<li>Web Design and Development</li>
+<li>Systems Analysis and Design</li>
+<li>Enterprise Systems</li>
+<li>Fundamentals of Computer Networks</li>
+<li>IS Strategy and Management</li>
+<li>Software Project Management</li>
+<li>Business Process Management</li>
+<li>Data Warehouse Technology</li>
+<li>Business Intelligence</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Business Organisation and Management</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Elective 1 (Choose 1)(Free Modules):</h6>
+<ul style="margin: 10px;">
+<li>Music Appreciation</li>
+<li>Principles of Accounting</li>
+</ul>
+<h6>Elective 2 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Introduction to Computer Security</li>
+<li>Visual Programming</li>
+</ul>
+<h6>Elective 3 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Advanced Database Management</li>
+<li>Web Programming</li>
+<li>Introduction to Short Story</li>
+</ul>
+<h6>Elective 4 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Database Administration</li>
+<li>Artificial Intelligence</li>
+<li>Mobile Application Development</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-information-technology-honours-in-information-security/
+Program Name: Bachelor of Information Technology (Honours) in Information Security
+Programme Overview: This programme is designed to equip students with technical abilities and knowledge of the information security in the areas of Internet Security, Vulnerability Assessment and Penetration Testing, Information Assurance and Security, Systems Administration and Software Security. In addition, students have the opportunity to learn about computer networking and software development. Students will learn and be trained on how to detect, prevent and defend organisations’ systems from unauthorised access.
+Duration: 3 years
+Intake: Year 1 Intake: June, November, Year 2 Intake: June
+Campuses: KL - Kuala Lumpur Main Campus   (R2/0611/6/0380A)(09/28)(MQA/FA3934)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202305/8B7CEFC7-9F45-459A-B6D5-301BF0E2E806.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul>
+<li>IT Fundamentals</li>
+<li>Introduction to Computer Systems</li>
+<li>Web Design and Development</li>
+<li>Introduction to Internet Security</li>
+<li>Human Computer Interaction</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Information Assurance and Security</li>
+<li>Web Application Development</li>
+<li>Enterprise Networking</li>
+<li>Software Security</li>
+<li>Systems Administration</li>
+<li>Vulnerability Assessment and Penetration Testing</li>
+<li>Problem Solving and Programming</li>
+<li>Database Management</li>
+<li>Integrative Programming</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Object-Oriented Analysis and Design</li>
+<li>Data Structures and Algorithms</li>
+<li>Switching and Routing Technologies</li>
+<li>Social and Professional Issues</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Contemporary Malaysian Issues</li>
+<li>Music Appreciation</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Electives (Choose 3):</h6>
+<ul>
+<li>Digital Forensics</li>
+<li>Mobile Application Development</li>
+<li>Blockchain Application Development</li>
+<li>Security Assessment and Risk Management</li>
+<li>Network Forensics</li>
+<li>Artificial Intelligence</li>
+<li>Cloud Computing</li>
+<li>Internet of Things</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-information-technology-honours-in-internet-technology/
+Program Name: Bachelor of Information Technology (Honours) in Internet Technology
+Programme Overview: The growth and development of the Internet is rapid and innovative. This phenomenon has enabled many companies to use web-based systems to operate their business processes in more efficient, effective and innovative ways. The use of the Internet has also led companies to be competitive.
+Duration: 3 years
+Intake: Year 1 Intake: June (KL, PG); November (KL), Year 2 Intake: June (KL, PG); November (KL)
+Campuses: KL - Kuala Lumpur Main Campus (R2/0611/6/0377A)(09/28)(MQA/FA3932), PG - Penang Branch Campus (N/482/6/0182)(05/24)(MQA/FA10736)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202305/8B7CEFC7-9F45-459A-B6D5-301BF0E2E806.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul>
+<li>IT Fundamentals</li>
+<li>Introduction to Computer Systems</li>
+<li>Web Design and Development</li>
+<li>Systems Analysis and Design</li>
+<li>Human Computer Interaction </li>
+<li>Introduction to Internet Security</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Web Programming</li>
+<li>Integrative Programming</li>
+<li>Enterprise Networking</li>
+<li>Enterprise Web Applications</li>
+<li>Mobile Application Development</li>
+<li>Problem Solving and Programming</li>
+<li>Research Methods</li>
+<li>Database Management</li>
+<li>Cloud Computing</li>
+<li>Switching and Routing Technologies</li>
+<li>Object-Oriented Programming</li>
+<li>Object-Oriented Analysis and Design</li>
+<li>Data Structures and Algorithms</li>
+<li>Contemporary Malaysian Issues</li>
+<li>Social and Professional Issues</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Music Appreciation</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<p></p>
+<h6>Electives (Choose 3):</h6>
+<ul>
+<li>Electronic Commerce</li>
+<li>Blockchain Application Development</li>
+<li>Artificial Intelligence</li>
+<li>Advanced Database Management</li>
+<li>Internet of things</li>
+<li>System Administration</li>
+<li>Web Engineering</li>
+<li>Emerging Web Technologies</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-information-technology-honours-in-software-systems-development/
+Program Name: Bachelor of Information Technology (Honours) in Software Systems Development
+Programme Overview: This programme produces and equips graduates with in-depth knowledge and skills that are essential to work as professionals in the software systems development and computer networking sectors. In addition to fundamentals of computing, topics of specialisation covered are Introduction to Computer Security, Web Application Development, Software Engineering, Integrative Programming, Software Project Management, Object-Oriented Programming, Human Computer Interaction, Computer Networks and Advanced Computer Networks. Students graduating from this programme will be capable of developing software systems in various platforms to fulfill the needs and requirements from organisations using appropriate software engineering methodologies and software project management techniques. In addition, students will also be able to design, configure, set up and maintain computer networks in organisations.
+Duration: 3 years
+Intake: Year 1 Intake: January (KL); June (KL, PG, PK, JH, PH, SB); November (KL, PG, PH), Year 2 Intake: June (KL, PG, PK, JH, PH, SB); November (KL, PG)
+Campuses: KL - Kuala Lumpur Main Campus (R2/482/6/0379A)(09/28)(MQA/FA3933), PG - Penang Branch Campus (R/482/6/0170A)(12/28)(MQA/FA10769), PK - Perak Branch Campus (R/482/6/0172)(12/28)(MQA/FA10768), JH - Johor Branch Campus (R/0611/6/0171)(12/28)(MQA/FA10767), PH - Pahang Branch (N/482/6/0187)(10/24)(MQA/PA12301), SB - Sabah Branch (N/482/6/0185)(09/24)(MQA/PA12302)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202305/8B7CEFC7-9F45-459A-B6D5-301BF0E2E806.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>IT Fundamentals</li>
+<li>Web Design and Development</li>
+<li>Systems Analysis and Design</li>
+<li>Integrative Programming</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Human Computer Interaction</li>
+<li>Mobile Application Development</li>
+<li>Web Application Development</li>
+<li>Enterprise Networking</li>
+<li>Introduction to Computer Systems</li>
+<li>Problem Solving and Programming</li>
+<li>Introduction to Internet Security</li>
+<li>Database Management</li>
+<li>Switching and Routing Technologies</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Cloud Computing</li>
+<li>Object-Oriented Analysis and Design</li>
+<li>Data Structures and Algorithms</li>
+<li>Software Engineering</li>
+<li>Social and Professional Issues</li>
+<li>Contemporary Malaysian Issues</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Music Appreciation</li>
+<li>Principles of Accounting</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Elective1 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Internet of Things</li>
+<li>Artificial Intelligence</li>
+<li>Software Quality Assurance and Testing</li>
+</ul>
+<h6>Elective 2 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Advanced Database Management</li>
+<li>Systems Administration</li>
+<li>Agile Software Development</li>
+</ul>
+<h6>Elective 3 (Choose 1):</h6>
+<ul style="margin: 10px;">
+<li>Software Project Management</li>
+<li>Blockchain Application Development</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-computer-science-honours-in-software-engineering/
+Program Name: Bachelor of Software Engineering (Honours)
+Programme Overview: Graduates of this programme will be able to develop, manage and maintain high-quality software in a systematic, controlled and efficient manner. In addition to fundamentals of computing, core courses such as Data Structures and Algorithms, Research Method, Artificial Intelligence, Human Computer Interaction, and Distributed Systems and Parallel Computing will be offered to students.
+Duration: 3 years
+Intake: Year 1 Intake: January (KL); June (KL, PG); November (KL), Year 2 Intake: June (KL, PG)
+Campuses: KL - Kuala Lumpur Main Campus   (R2/0612/6/0375)(09/28)(MQA/FA3930), PG - Penang Branch Campus   (N/481/6/0818)(10/24)(MQA/FA10814)
+Academic Progression: 
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202303/986FE568-6D75-4E3A-A661-B07D22B05423.png
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Problem Solving and Programming</li>
+<li>Database Management</li>
+<li>Introduction to Computer Systems</li>
+<li>Object-Oriented Programming</li>
+<li>Research Methods</li>
+<li>Data Structures and Algorithms</li>
+<li>Software Engineering</li>
+<li>Social and Professional Issues</li>
+<li>Software Quality Assurance and Testing</li>
+<li>Software Requirements Engineering</li>
+<li>Software Design and Architecture</li>
+<li>Software Project Management</li>
+<li>Formal Methods for Software Engineering</li>
+<li>Software Evolution and Maintenance</li>
+<li>Systems Analysis and Design</li>
+<li>Introduction to Computer Networks</li>
+<li>Web Design and Development</li>
+<li>Human Computer Interaction</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Advanced Discrete Mathematics</li>
+<li>Music Appreciation</li>
+<li>Project I</li>
+<li>Project II</li>
+<li>Industrial Training (6 months)</li>
+</ul>
+<h6>Electives (Choose 6):</h6>
+<ul style="margin: 10px;">
+<li>Advanced Database Management</li>
+<li>Artificial Intelligence</li>
+<li>Web Application Development</li>
+<li>Blockchain Application Development</li>
+<li>Introduction to Computer Security</li>
+<li>Distributed Systems and Parallel Computing</li>
+<li>Mobile Application Development</li>
+<li>Graphic Programming</li>
+<li>Integrative Programming</li>
+<li>Image Processing</li>
+<li>Data Science</li>
+<li>Cloud Computing</li>
+<li>Agile Software Development</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Falsafah dan Isu Semasa, Academic English, Penghayatan Etika dan Peradaban, English for Career Preparation, Entrepreneurship, Bahasa Kebangsaan A, Contemporary Malaysian Issues, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/diploma/diploma-in-computer-science/
+Program Name: Diploma in Computer Science
+Programme Overview: Students are trained in both theoretical knowledge and practical skills for software development, system design and related mathematical techniques.
+Duration: 2 years
+Intake: Bachelor of Science (Honours) in Management Mathematics with Computing, Bachelor of Software Engineering (Honours), Bachelor of Computer Science (Honours) in Interactive Software Technology, Bachelor of Computer Science (Honours) in Data Science
+Campuses: KL - Kuala Lumpur Main Campus(R2/481/4/0345A)(08/28)(AA0109), PG - Penang Branch Campus(R2/0613/4/0354A)(09/28)(AA0139), JH - Johor Branch Campus(R/481/4/0761)(07/26)(MQA/FA7636)
+Academic Progression: Graduates may be admitted into Year 2 of:
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202308/04FFCB8A-B33D-406D-BF46-A8CFFF75F099.jpg
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Introduction to Information Technology</li>
+<li>Programming Concepts and Design I</li>
+<li>Programming Concepts and Design II</li>
+<li>Operating Systems</li>
+<li>Web Design and Development</li>
+<li>Systems Analysis and Design</li>
+<li>Object-Oriented Programming Techniques</li>
+<li>Computer Systems Architecture</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Database Development and Applications</li>
+<li>Pre-Calculus</li>
+<li>Introductory Calculus</li>
+<li>Statistics I</li>
+<li>Statistics II</li>
+<li>Discrete Mathematics</li>
+<li>Algebra</li>
+<li>Industrial Training</li>
+</ul>
+<p>      Elective I (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Accounting Methods I</li>
+<li>Introduction to Data Science</li>
+<li>Computer Game Studies</li>
+<li>Software Engineering</li>
+</ul>
+<p>      Elective II (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Accounting Methods II</li>
+<li>Introduction to Data Mining</li>
+<li>Computer Game Development</li>
+<li>Software Requirement and Design</li>
+</ul>
+<p>      Elective III (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Fundamentals of Artificial Intelligence</li>
+<li>Mobile Application Development</li>
+<li>GUI and Web Application Programming</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Academic English, Bahasa Kebangsaan A or Public Speaking, Penghayatan Etika dan Peradaban, Professional English, Civic Consciousness and Volunteerism, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/diploma/diploma-in-information-systems/
+Program Name: Diploma in Information Systems
+Programme Overview: This programme majors in business information systems. It aims to produce graduates with fundamental knowledge in information technology and its business related applications. It covers the theoretical and practical aspects of developing information systems, management, costing, accounting, electronic commerce, and mathematics. This programme is supported by case studies and computer laboratory assignments. In addition, students are exposed to part of the SAP curriculum like logistics and enterprise resource planning. Students will acquire practical skills in the C Language, HTML5, JavaScript, VB.NET, Microsoft Expression Web, Oracle Database, accounting software packages and be guided through the process of developing an information system.
+Duration: 2 years
+Intake: Bachelor of Information Systems (Honours) in Enterprise Information Systems
+Campuses: KL - Kuala Lumpur Main Campus(R2/482/4/0195A)(08/28)(AA0110), PG - Penang Branch Campus(R2/0611/4/0202A)(09/28)(AA0140), PK - Perak Branch Campus(R2/0611/4/0201A)(09/28)(AA0153)
+Academic Progression: Graduates may be admitted into Year 2 of:
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202102/A1854FA6-0783-41E5-BAD2-BF61C7FF1EFE.jpg
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Introduction to Information Technology</li>
+<li>Programming Concepts and Design I</li>
+<li>Programming Concepts and Design II</li>
+<li>Principles of Information Systems</li>
+<li>Web Design and Development</li>
+<li>Web Systems and Technologies</li>
+<li>Systems Analysis and Design</li>
+<li>Database Development and Applications</li>
+<li>Managing Information Systems</li>
+<li>Computer Systems Architecture</li>
+<li>Electronic Commerce</li>
+<li>Enterprise Resource Planning</li>
+<li>Operating Systems</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Introductory Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Principles of Accounting</li>
+<li>Industrial Training</li>
+</ul>
+<p style="padding-left: 30px;">Elective 1 (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Introduction to Logistics Operations</li>
+<li>Mobile Commerce and Marketing</li>
+</ul>
+<p style="padding-left: 30px;">Elective 2 (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Cost Accounting</li>
+<li>Introduction to Data Science</li>
+</ul>
+<p style="padding-left: 30px;">Elective 3 (Choose 1):</p>
+<ul style="margin: 10px;">
+<li>Cloud Computing for Business</li>
+<li>Accounting Software Packages</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Academic English, Bahasa Kebangsaan A, Penghayatan Etika dan Peradaban, Public Speaking, Professional English, Civic Consciousness and Volunteerism, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/diploma/diploma-in-information-technology/
+Program Name: Diploma in Information Technology
+Programme Overview: This programme provides students with a basic understanding of computing techniques and aims to develop the computing and information technology-based knowledge and skills required in modern industrial, commercial and service organisations. It will equip students with essential knowledge of the underlying principles of modern computing technology and enable students to appreciate how modern computers are applied to a range of real world problems. Students will learn C Language, Java, Assembly Language, Oracle Database, HTML5, CSS, PHP and JavaScript. Upon completion, graduates will have acquired knowledge and developed skills in the areas of computer programming, systems analysis, operating systems, computer networking, computer applications and object-oriented software development, as well as in generic business courses.
+Duration: 2 years
+Intake: KL - Kuala Lumpur Main Campus (R2/482/4/0196A)(08/28)(AA0111), PG - Penang Branch Campus(R2/0611/4/0203A)(09/28)(AA0141), PK - Perak Branch Campus(R2/482/4/0200A)(09/28)(AA0154), JH - Johor Branch Campus(R2/0611/4/0199A)(09/28)(AA0163), PH - Pahang Branch(R2/0611/4/0198A)(12/28)(AA0168), SB - Sabah Branch(R2/0611/4/0197A)(12/28)(AA0122)
+Campuses: KL - Kuala Lumpur Main Campus (R2/482/4/0196A)(08/28)(AA0111), PG - Penang Branch Campus(R2/0611/4/0203A)(09/28)(AA0141), PK - Perak Branch Campus(R2/482/4/0200A)(09/28)(AA0154), JH - Johor Branch Campus(R2/0611/4/0199A)(09/28)(AA0163), PH - Pahang Branch(R2/0611/4/0198A)(12/28)(AA0168), SB - Sabah Branch(R2/0611/4/0197A)(12/28)(AA0122)
+Academic Progression: Graduates may be admitted into Year 2 of:
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202102/A1854FA6-0783-41E5-BAD2-BF61C7FF1EFE.jpg
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Introduction to Information Technology</li>
+<li>Programming Concepts and Design I</li>
+<li>Programming Concepts and Design II</li>
+<li>Principles of Information Systems</li>
+<li>Web Design and Development</li>
+<li>Systems Analysis and Design</li>
+<li>Object-Oriented Programming Techniques</li>
+<li>Operating Systems</li>
+<li>Computer Systems Architecture</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Database Development and Applications</li>
+<li>Web Systems and Technologies</li>
+<li>GUI and Web Application Programming</li>
+<li>Introduction to Cybersecurity</li>
+<li>Calculus and Algebra</li>
+<li>Probability and Statistics</li>
+<li>Discrete Mathematics</li>
+<li>Industrial Training (10 weeks)</li>
+</ul>
+<p><strong></strong></p>
+<p><strong>Elective I (choose 1):</strong></p>
+<ul>
+<li>Introduction to Business</li>
+<li>Mobile Commerce and Marketing</li>
+</ul>
+<p><strong>Elective II (choose 1):</strong></p>
+<ul>
+<li>Introduction to Marketing</li>
+<li>Introduction to Data Science</li>
+</ul>
+<p><strong>Elective III (choose 1):</strong></p>
+<ul>
+<li>Business Organisation and Management</li>
+<li>Cloud Computing for Business</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Academic English, Bahasa Kebangsaan A, Penghayatan Etika dan Peradaban, Public Speaking, Professional English, Civic Consciousness and Volunteerism, Co-curricular</p>
+
+URL: https://www.tarc.edu.my/focs/programmes/diploma/diploma-in-software-engineering/
+Program Name: Diploma in Software Engineering
+Programme Overview: This programme equips students with the fundamental knowledge of software engineering with practical and analytical thinking skills in software development. It also provides students with basic managerial skills and innovation in creating business opportunities in the area of software engineering, as well as educational experience that motivates them to pursue higher level of study and life-long learning.
+Duration: 2 years
+Intake: SB - Sabah Branch(R/481/4/0779)(08/27)(MQA/FA7566)
+Campuses: 
+Academic Progression: Graduates may be admitted into Year 2 of:
+entry_requirements: https://www.tarc.edu.my/files/focs/mer202102/A1854FA6-0783-41E5-BAD2-BF61C7FF1EFE.jpg
+outline: 
+<h5><i class="fa fa-book gold-orange"></i> Programme Outline:</h5>
+<ul style="margin: 10px;">
+<li>Problem Solving and Programming</li>
+<li>Software Engineering</li>
+<li>Calculus and Algebra</li>
+<li>Software Requirement and Design</li>
+<li>Web Design and Development</li>
+<li>Object-Oriented Programming Techniques</li>
+<li>Software Testing and Quality</li>
+<li>Database Development and Applications</li>
+<li>Computer Systems Architecture</li>
+<li>Software Maintenance</li>
+<li>Operating Systems</li>
+<li>Mini Project</li>
+<li>Introduction to Data Structures and Algorithms</li>
+<li>Discrete Mathematics</li>
+<li>Mobile Application Development</li>
+<li>Fundamentals of Computer Networks</li>
+<li>Industrial Training (10 weeks)</li>
+</ul>
+<h6>Electives (Choose 2):</h6>
+<ul style="margin: 10px;">
+<li>Introduction to Artificial Intelligence</li>
+<li>Introduction to Cloud Computing</li>
+<li>Introduction to Data Science</li>
+<li>Electronic Commerce</li>
+</ul>
+<h6>Language, Mata Pelajaran Pengajian Umum (MPU) and Co-curricular Courses:</h6>
+<p>English for Tertiary Studies, Pengajian Malaysia 2, Academic English, Bahasa Kebangsaan A, Professional English, Civic Consciousness and Volunteerism, Public Speaking and Co-curricular</p>
+

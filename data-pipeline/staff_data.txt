@@ -1,0 +1,235 @@
+Name: Ts. Lim Shen Huoy
+Position: Dean
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Management Information Systems
+Major of Study/Specialization: Area of Interest: Information Security, Networking
+Area of Interest: Faculty of Computing And Information Technology
+
+Name: Dr Wong Thein Lai
+Position: Deputy Dean (Research & Development)
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information Security
+Major of Study/Specialization: Area of Interest: Blockchain, Networking, Data Sharing Framework for IR4.0
+Area of Interest: Faculty of Computing And Information Technology
+
+Name: Ts. Chok Len Mooi
+Position: Deputy Dean (Academic)
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Networking
+Major of Study/Specialization: Area of Interest: Networking, Network Security
+Area of Interest: Faculty of Computing And Information Technology
+
+Name: Encik Ooi Chun Pew
+Position: Deputy Dean (Academic)
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information and Communication Technology Management
+Major of Study/Specialization: Area of Interest: Systems Analysis and Design, Management Information Systems, Enterprise Resource Planning
+Area of Interest: Faculty of Computing And Information Technology
+
+Name: Puan Choy Lai Fun
+Position: Associate Dean For Quality Assurance
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: ICT management, e-commerce, Computer systems architecture
+Major of Study/Specialization: Area of Interest: Big data, Web development, Mobile development
+Area of Interest: Department of Software Engineering And Technology
+
+Name: Puan Azurawati Binti Ismail
+Position: Associate Dean
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Software Engineering, Programming
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Chin Chai Lim
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Object-Oriented Analysis and Design, System Administration
+Major of Study/Specialization: Area of Interest: System Analysis and Design, System Administration
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Cik Mazlinda Binti Nezam Mudeen
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Software Testing, Automation Testing (Artificial Intelligence, Robotic Process Automation)
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Pong Suk Fun
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information and Communication Technology Management
+Major of Study/Specialization: Area of Interest: Google Web Academy, Managing Information Systems, Analysis and Design of IS, Enterprise Resource Planning
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Lee Seah Fang
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information Technology Management
+Major of Study/Specialization: Area of Interest: Information System, .NET programming
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Ts. Mohd Ridzuan Bin Ahmad
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Department of Software Engineering And Technology
+Major of Study/Specialization: None
+Area of Interest: None
+Department: Department of Software Engineering And Technology
+
+Name: Encik Shoong Wai Kin
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Project Management
+Major of Study/Specialization: Area of Interest: Project Management, Programming Concepts & Design,  E-Commerce
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Anurehka A/P Magheswaran
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: E-Learning, Software Engineering, Text and Sentiment Analysis
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Ts. Bavani A/P Raja Pandian
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: software engineering
+Major of Study/Specialization: Area of Interest: Data science, web development, software development & testing
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Encik Chang Hoong Jack
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Microservices, Internet Technology, Java Spring, Web App Development
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Encik Ding Ying Hong
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Information System, Java, Software Development, Enterprise Resource Planning System, Web Application Programming
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Ts. Lim Fung Ji
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Software Testing, Software Quality Assurance, Robotic Process Automation
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Malarvili A/P Nallayan
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information Engineering
+Major of Study/Specialization: Area of Interest: Web Development, Programming
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Encik Teoh Kah Chin
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information Systems
+Major of Study/Specialization: Area of Interest: C, C++, Visual Basic programming
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Puan Tey Siew Kee
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information Techonology / Information Science
+Major of Study/Specialization: Area of Interest: Desktop and Web Development
+Area of Interest: Department of Software Engineering And Technology
+Department: Department of Software Engineering And Technology
+
+Name: Dr Ho Chuk Fong
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Software Engineering
+Major of Study/Specialization: Area of Interest: Artificial Intelligence, Machine Learning, Sentiment Analysis
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Software Engineering And Technology
+
+Name: Encik Chee Keh Niang
+Position: Associate Dean
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Applied Statistics
+Major of Study/Specialization: Area of Interest: Applied Statistics
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Dr Chin Wan Yoke
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Mathematics and Statistics
+Major of Study/Specialization: Area of Interest: Survival Analysis; Longitudinal Study; Statistical Modeling, Simulation and Analysis; Computer Programming and Mathematics; Statistical Hydrology
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Puan Chong Voon Niang
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Mathematics and Statistics
+Major of Study/Specialization: Area of Interest: Statistics
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Dr Lim Siew Mooi
+Position: Programme Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Intelligent Computing
+Major of Study/Specialization: Area of Interest: Machine Learning, Forecasting and Predictive Modelling, Natural Language Processing.
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Puan Fong Wai Sham
+Position: Course Leader
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Applied Statistics
+Major of Study/Specialization: Area of Interest: Applied Statistics
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Encik Choong Yun Loong
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Information System
+Major of Study/Specialization: Area of Interest: Database, MIS
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Puan Lee Shu Gyan
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Mathematics and Applied Statistics
+Major of Study/Specialization: Area of Interest: Quality Control, Mathematical Statistics, Calculus, Probability and Statistics.
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Encik Henry Hwang Chong Shin
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Applied Statistics and Mathematics/ Calculus and Algebra, Time Series, Regression
+Major of Study/Specialization: Area of Interest: Statistical Analysis and Survey Group
+Area of Interest: Department of Mathematical And Data Science
+Department: Department of Mathematical And Data Science
+
+Name: Cik Loo Bee Wah
+Position: 
+Faculty: Faculty of Computing And Information Technology
+Email: Major of Study/Specialization: Applied Mathematics, Statistics
+Major of Study/Specialization: Area of Interest: Applied Mathematics, Statistics, Calculus, Engineering Mathematics
+Area of Interest: Registration No. DU058(W) Wholly owned by the TARC Education Foundation (Co. Reg. No.: 201301003979 (1033820-M))
+Department: Department of Mathematical And Data Science
+

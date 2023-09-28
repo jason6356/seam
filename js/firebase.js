@@ -40,7 +40,7 @@ function renderCards(querySnapshot, query) {
 
     // Create a new card element and append it to the current row.
     const cardElement = document.createElement("div")
-    cardElement.classList.add("col-md-6")
+    cardElement.classList.add("col-md-4")
     cardElement.innerHTML = `
         <div class="card">
           <div class="card-body">
@@ -82,14 +82,15 @@ function getSpmResults() {
 let studentResult = getSpmResults()
 let numOfCredit = window.localStorage.getItem("creditCount")
 
-if (studentResult) {
-  if (numOfCredit < 5) {
-    alert("You have insufficent credit to apply for any courses!")
-    window.location.href = "/index.html"
-  } else {
-    alert("You have minimum credit to apply for any courses!")
-  }
-}
+// if (studentResult) {
+//   if (numOfCredit < 5) {
+//     alert("You have insufficent credit to apply for any courses!")
+//     window.location.href = "/index.html"
+//   } else if (numOfCredit === null) {
+//   } else {
+//     alert("You have minimum credit to apply for any courses!")
+//   }
+// }
 
 setInterval(() => {
   let value = document.querySelector(
